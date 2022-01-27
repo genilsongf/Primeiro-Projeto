@@ -7,7 +7,7 @@ namespace Primeiro_Projeto
         static void Main(string[] args)
         {   var a = "Hello ";
             var b = "World";
-            Console.WriteLine(a + b + a);
+            Console.WriteLine(a + b + a + b);
             Console.WriteLine(a + b);
             Console.WriteLine(a + b);
             Console.WriteLine(a + b);
