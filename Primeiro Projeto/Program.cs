@@ -8,6 +8,7 @@ namespace Primeiro_Projeto
         {   var a = "Hello ";
             var b = "World";
             Console.WriteLine(a + b);
+            Console.WriteLine(a + b);
         }
     }
 }
